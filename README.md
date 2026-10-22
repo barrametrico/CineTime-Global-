@@ -9,7 +9,7 @@ CineTime
 </p>
 
 <p align="center">
-  <a href="https://github.com/barrametrico/CineTime-Global-/blob/main/CineTime_4.6.apk">
+  <a href="https://github.com/barrametrico/CineTime-Global-/raw/refs/heads/main/CineTime_4.6.apk">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_APK-CineTime_4.6-6200EE?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
   </a>
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform">
@@ -289,7 +289,7 @@ This app is intended for educational and entertainment purposes only.
 </p>
 
 <p align="center">
-  <a href="https://github.com/barrametrico/CineTime-Global-/blob/main/CineTime_4.6.apk">
+  <a href="https://github.com/barrametrico/CineTime-Global-/raw/refs/heads/main/CineTime_4.6.apk">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-CineTime_4.6-6200EE?style=for-the-badge&logo=android&logoColor=white" alt="Download Now">
   </a>
 </p>
